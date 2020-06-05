@@ -8,3 +8,4 @@ Here under this project,we have the objective to build a chat bot using WATSON A
 The SMART DOCUMENT UNDERSTANDING allows us to train IBM WATSON DISCOVERY to interpret structural elements of complex and diverse documents.It also helps us to rapidly extract new insights in context for deeper understanding , cleaner answers and confident recommendations.
 
 In WATSON DISCOVERY, I have added the ecobee3_userguide.
+The NODE RED DASHBOARD link is :https://node-red-npkfm.mybluemix.net/ui
