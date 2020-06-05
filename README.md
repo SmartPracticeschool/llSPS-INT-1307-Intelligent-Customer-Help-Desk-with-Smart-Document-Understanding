@@ -1,6 +1,6 @@
 # llSPS-INT-1307-Intelligent-Customer-Help-Desk-with-Smart-Document-Understanding
 Intelligent Customer Help Desk with Smart Document Understanding
-This is a repository built using the features offered by WATSON ASSISTANCE,IBM CLOUD FUNCTIONS,WATSON DISCOVERY and NODE RED.It is uploaded as it is the requirement for the completion of SMARTINTERNZ INTERNSHIP PROGRAM.
+This is a repository built using the features offered by WATSON ASSISTANCE,IBM CLOUD FUNCTIONS,WATSON DISCOVERY and NODE RED.It is uploaded in the GITHUB for the completion of SMARTINTERNZ INTERNSHIP PROGRAM.
 
 PROJECT DESCRIPTION:
 The chatbots available in general to customers are able to answer simple questions regarding some store details such as locations,timings,directions etc.These are even designed such that they can manage to fix an appointment but at times if the question asked by the customer is outside the scope of the pre-loaded question set ,the chat bot responds to it with a reply of invalid question or offers the customer to speak to a real person.
