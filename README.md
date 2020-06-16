@@ -10,3 +10,4 @@ The SMART DOCUMENT UNDERSTANDING allows us to train IBM WATSON DISCOVERY to inte
 In WATSON DISCOVERY, I have added the ecobee3_userguide.
 The NODE RED DASHBOARD link is :https://node-red-npkfm.mybluemix.net/ui
 Here is the link to my YouTube video of the project :https://youtu.be/KjA6Jts_Y1Y
+Here is the link to my feedback video:https://drive.google.com/file/d/1PevGoWILpIiifBrUaQTuJCKl0V0SkWz9/view?usp=drivesdk
